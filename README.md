@@ -6,6 +6,8 @@
 
 `[~]` Mis proyectos son en `Español.`
 
+`[~]` Estoy aprendiendo sobre la escalada de `permisos en Linux.`
+
 `[~]` Puedes contactar conmigo por `Discord` enviando una invitación a `qwfkr.`
 
       qwfkr
