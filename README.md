@@ -7,3 +7,10 @@
 `[~]` Mis proyectos son en `Español.`
 
 `[~]` Puedes contactar conmigo por `Discord` enviando una invitación a `qwfkr.`
+
+__________            ___.   .__        
+\____    /____   _____\_ |__ |__| ____  
+  /     //  _ \ /     \| __ \|  |/ __ \ 
+ /     /(  <_> )  Y Y  \ \_\ \  \  ___/ 
+/_______ \____/|__|_|  /___  /__|\___  >
+        \/           \/    \/        \/ 
