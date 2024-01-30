@@ -8,8 +8,6 @@
 
 `[~]` Puedes contactar conmigo por `Discord` enviando una invitación a `qwfkr.`
 
-8888888888P                       888      d8b  
-
       d88P                        888      Y8P  
       
      d88P                         888   
