@@ -10,6 +10,10 @@
 
       qwfkr
 
+`[~]` Si lo prefieres, puedes `enviarme` mails a `3xpl017.contact@proton.me.`
+
+      3xpl017.contact@proton.me
+
 ## ✌️Habilidades✌️
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
