@@ -37,7 +37,4 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-*[~]Colaboradores:*
-
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>ZombieGeek0</sub>](https://github.com/ZombieGeeK0) |
-| :---: | :---: | :---: |
+*`[~]`*
