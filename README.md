@@ -32,6 +32,6 @@
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&hide_progress=true&theme=radical)
 
-*Estrellas:
+**Estrellas:
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
