@@ -32,4 +32,6 @@
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&hide_progress=true&theme=radical)
 
-<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>
+*Estrellas:
+
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
