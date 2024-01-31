@@ -16,25 +16,23 @@
 
       3xpl017.contact@proton.me
 
-## ✌️Habilidades✌️
+## ✌️`Habilidades`✌️
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-## 🤔Entorno de trabajo🤔
+## 🤔Entorno de `trabajo`🤔
 ![Vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 🖥️Sistemas operativos🖥️
+## 🖥️`Sistemas` operativos🖥️
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 🗿Estadísticas de GitHub🗿
+## 🗿Estadísticas de `GitHub`🗿
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZombieGeek0&show_icons=true&theme=radical)
 
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&hide_progress=true&theme=radical)
 
-*[~]Estrellas:*
+*`[~]`Estrellas:*
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-
-*`[~]`*
