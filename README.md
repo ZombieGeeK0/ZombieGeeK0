@@ -1,8 +1,5 @@
 <center><h3>Soy ZombieGeek0</h3></center>
 
-<a href=#><img src="contributions.svg"></a>
-<img src="contributions.svg">
-
 <hr>
 
 `[~]` Trabajo en `Python`, y tengo como entorno `Kali Linux.`
