@@ -1,6 +1,7 @@
 <center><h3>Soy ZombieGeek0</h3></center>
 
 <a href=#><img src="contributions.svg"></a>
+<a href="contributions.svg">Cont</a>
 
 <hr>
 
