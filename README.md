@@ -36,3 +36,8 @@
 *`[~]`Estrellas:*
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
+## 👍Algunos de mis proyectos👍
+
+![image](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/4deee8d5-1af9-4bcf-bbe9-971801331e7e)
+
