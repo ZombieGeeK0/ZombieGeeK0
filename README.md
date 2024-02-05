@@ -41,3 +41,6 @@
 
 ![image](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/4deee8d5-1af9-4bcf-bbe9-971801331e7e)
 
+## Repo Activity
+
+![Repo Activity](https://repobeats.axiom.co/api/embed/7866c9790deba0baf63ca1688b209130b306ea4e.svg "Repobeats analytics image")
