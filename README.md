@@ -8,6 +8,8 @@
 
 `[~]` Estoy aprendiendo sobre la escalada de `permisos en Linux.`
 
+`[~]` También me interesa `aprender` a programar en `GO.`
+
 `[~]` Puedes contactar conmigo por `Discord` enviando una invitación a `qwfkr.`
 
       qwfkr
