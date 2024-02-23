@@ -37,9 +37,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&langs_count=8)](https://github.com/ZombieGeek0/github-readme-stats)
 
-[![ZombieGeek0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZombieGeek0)](https://github.com/ZombieGeek0/github-readme-stats)
-
-
 *`[~]`Estrellas:*
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
