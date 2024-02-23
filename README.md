@@ -32,11 +32,13 @@
 ## 🗿Estadísticas de `GitHub`🗿
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZombieGeek0&show_icons=true&theme=radical)
 
+`[*]` Con los commits `privados:`
+ 
+![ZombieGeek0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZombieGeek0&count_private=true)
+
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&hide_progress=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&langs_count=8)](https://github.com/ZombieGeek0/github-readme-stats)
-
-![ZombieGeek0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZombieGeek0&count_private=true)
 
 *`[~]`Estrellas:*
 
