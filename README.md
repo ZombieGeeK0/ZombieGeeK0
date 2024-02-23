@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&langs_count=8)](https://github.com/ZombieGeek0/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZombieGeek0=github-readme-stats)](https://github.com/ZombieGeek0/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZombieGeek0=github-readme-stats)](https://github.com/ZombieGeek0/ZombieGeek0)
 
 *`[~]`Estrellas:*
 
