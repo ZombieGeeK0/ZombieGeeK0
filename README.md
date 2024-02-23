@@ -12,11 +12,11 @@
 
 `[~]` Puedes contactar conmigo por `Discord` enviando una invitación a `qwfkr.`
 
-      qwfkr
+    qwfkr
 
 `[~]` Si lo prefieres, puedes `enviarme` mails a `3xpl017.contact@proton.me.`
 
-      3xpl017.contact@proton.me
+    3xpl017.contact@proton.me
 
 ## ✌️`Habilidades`✌️
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -34,6 +34,9 @@
 
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&hide_progress=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&layout=compact)](https://github.com/SrGobi/github-readme-stats)
+
 
 *`[~]`Estrellas:*
 
