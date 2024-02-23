@@ -35,7 +35,7 @@
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&hide_progress=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&layout=compact)](https://github.com/SrGobi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&layout=compact)](https://github.com/ZombieGeek0/github-readme-stats)
 
 
 *`[~]`Estrellas:*
