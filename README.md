@@ -2,10 +2,6 @@
 
 <hr>
 
-![hacker-python-1738493745](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/4517cee5-c545-44a7-a3f7-0be865456f16)
-
-<hr>
-
 `[~]` Trabajo en `Python`, y tengo como entorno `Kali Linux.`
 
 `[~]` Mis proyectos son en `Español.`
@@ -52,6 +48,6 @@
 
 ![image](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/4deee8d5-1af9-4bcf-bbe9-971801331e7e)
 
-![snake+gesture-2635390835](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/20a8d0d4-6992-49a3-9f13-0fe8104710b7)
+<hr>
 
-
+![hacker-python-1738493745](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/4517cee5-c545-44a7-a3f7-0be865456f16)
