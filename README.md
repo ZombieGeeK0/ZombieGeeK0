@@ -2,6 +2,10 @@
 
 <hr>
 
+![hacker-python-1738493745](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/4517cee5-c545-44a7-a3f7-0be865456f16)
+
+<hr>
+
 `[~]` Trabajo en `Python`, y tengo como entorno `Kali Linux.`
 
 `[~]` Mis proyectos son en `Español.`
