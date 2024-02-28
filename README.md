@@ -4,6 +4,8 @@
 
 <img src="animation.svg" href="animation.svg">
 
+![54e37d8074ebcde1d96c77d7b2a7f310-607481371](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/23441715-d793-4a20-85a3-1e8dcd59a2a0)
+
 <hr>
 
 `[~]` Trabajo en `Python`, y tengo como entorno `Kali Linux.`
