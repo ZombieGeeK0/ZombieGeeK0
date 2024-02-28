@@ -2,6 +2,49 @@
 
 <hr>
 
+<div>
+  <p>Soy ZombieGeek0</p>
+</div>
+
+<style>
+    body {
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+}
+
+    p {
+        font-size: 2rem;
+        font-family: "Courier New";
+        border-right: .15em solid #18BDEC;
+        animation: blink 1s steps(1) infinite;
+        width: 0;
+        overflow: hidden;
+        white-space: nowrap;
+        animation: typing 4s steps(38) 1s 1 normal both, blink 1s steps(1) infinite;
+}
+
+    @keyframes blink {
+        50% {
+            border-color: transparent;
+  }
+}
+
+    @keyframes typing {
+        from {
+            width: 0;
+        }
+        to {
+            width: 100%;
+        }
+}
+
+    
+    
+</style>
+
+<hr>
+
 `[~]` Trabajo en `Python`, y tengo como entorno `Kali Linux.`
 
 `[~]` Mis proyectos son en `Español.`
