@@ -2,6 +2,8 @@
 
 <hr>
 
+<img src="#" href="animation.svg">
+
 `[~]` Trabajo en `Python`, y tengo como entorno `Kali Linux.`
 
 `[~]` Mis proyectos son en `Español.`
