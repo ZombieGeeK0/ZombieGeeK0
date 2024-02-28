@@ -4,6 +4,8 @@
 
 <img src="animation.svg" href="animation.svg">
 
+<hr>
+
 `[~]` Trabajo en `Python`, y tengo como entorno `Kali Linux.`
 
 `[~]` Mis proyectos son en `Español.`
