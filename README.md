@@ -2,7 +2,7 @@
 
 <hr>
 
-<img src="#" href="animation.svg">
+<img src="animation.svg" href="animation.svg">
 
 `[~]` Trabajo en `Python`, y tengo como entorno `Kali Linux.`
 
