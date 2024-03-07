@@ -50,7 +50,11 @@
 
 ## 👍Algunos de mis proyectos👍
 
+Scorpion:
 ![300930434-108c88e5-cd9c-47f7-8e39-eb152d565ba6](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/b070f55c-5955-4d06-a4e9-ad0006d2e265)
+
+Ryno:
+![imagen](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/6d02d6db-91b2-4a77-9401-de5918563147)
 
 <hr>
 
