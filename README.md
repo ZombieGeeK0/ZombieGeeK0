@@ -22,9 +22,7 @@
 
     3xpl017.contact@proton.me
 
-`[~]` Mi colaborador habitual <a href="https://www.github.com/Euronymou5">Euronymou5<a>
-
-<img src="https://avatars.githubusercontent.com/u/85043356?v=4" widht=200px>
+`[~]` Mi colaborador habitual: <a href="https://www.github.com/Euronymou5">Euronymou5.<a>
 
 ## ✌️`Habilidades`✌️
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
