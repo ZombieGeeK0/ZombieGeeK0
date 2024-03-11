@@ -44,7 +44,7 @@
 
 ## 🖥️`Sistemas` operativos🖥️
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Debian-0078D6?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Debian-0078D6?style=for-the-badge&logo=debian&logoColor=red)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🗿Estadísticas de `GitHub`🗿
