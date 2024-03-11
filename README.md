@@ -28,14 +28,14 @@
 
 ![Linux](https://img.shields.io/badge/Debian-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux](https://img.shields.io/badge/VSCode-FCC624?style=for-the-badge&logo=vscode&logoColor=black)
-![Linux](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black)
 ![Linux](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/Batch-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/VBS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/GitHub-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/Markdown-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Batch-FCC624?style=for-the-badge&logo=windows&logoColor=black)
+![Linux](https://img.shields.io/badge/VBS-FCC624?style=for-the-badge&logo=vbs&logoColor=black)
+![Linux](https://img.shields.io/badge/GitHub-FCC624?style=for-the-badge&logo=github&logoColor=black)
+![Linux](https://img.shields.io/badge/Markdown-FCC624?style=for-the-badge&logo=markdown&logoColor=black)
+![Linux](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html&logoColor=black)
+![Linux](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)
 
 
 ## 🤔Entorno de `trabajo`🤔
