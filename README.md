@@ -27,7 +27,7 @@
 ## ✌️`Habilidades`✌️
 
 ![Linux](https://img.shields.io/badge/Debian-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/VSCode-FCC624?style=for-the-badge&logo=code&logoColor=black)
+![Linux](https://img.shields.io/badge/VSCode-FCC624?style=for-the-badge&logo=vscode&logoColor=black)
 ![Linux](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux](https://img.shields.io/badge/Batch-FCC624?style=for-the-badge&logo=linux&logoColor=black)
