@@ -24,6 +24,12 @@
 
 `[~]` Mi colaborador habitual: <a href="https://www.github.com/Euronymou5">Euronymou5.<a>
 
+<hr>
+
+![Dino_non-birthday_version-2266813070](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/5e5d53b4-00e9-45cc-a517-02eb061a2f43)
+
+<hr>
+
 ## ✌️`Habilidades`✌️
 
 ![Linux](https://img.shields.io/badge/Debian-FCC624?style=for-the-badge&logo=linux&logoColor=black)
