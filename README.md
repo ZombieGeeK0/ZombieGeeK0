@@ -38,16 +38,16 @@
 ![Linux](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)
 
 
-## 🤔Entorno de `trabajo`🤔
+## 🤔 Entorno de `trabajo` 🤔
 ![Vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vs](https://img.shields.io/badge/Windows_Notepad-0078D4?style=for-the-badge&logo=notepad&logoColor=white)
 
-## 🖥️`Sistemas` operativos🖥️
+## 🖥️ `Sistemas` operativos 🖥️
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Debian-557C94?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-557C94?style=for-the-badge&logo=windows&logoColor=white)
 
-## 🗿Estadísticas de `GitHub`🗿
+## 🗿 Estadísticas de `GitHub` 🗿
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZombieGeek0&show_icons=true&theme=radical)
 
 `[*]` Con los commits `privados:`
@@ -62,7 +62,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-## 👍Algunos de mis proyectos👍
+## 👍 Algunos de mis proyectos 👍
 
 _Scorpion:_
 
