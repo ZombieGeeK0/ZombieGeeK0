@@ -1,6 +1,4 @@
-# mv ZombieGeek0 /dev/null
-
-<hr>
+# 🧀 mv ZombieGeek0 /dev/null 🧀
 
 <img src="animation.svg" href="animation.svg">
 
