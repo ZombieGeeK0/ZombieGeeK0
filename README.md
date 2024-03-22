@@ -1,4 +1,4 @@
-<center><h3>mv ZombieGeek0 /dev/null</h3></center>
+# mv ZombieGeek0 /dev/null
 
 <hr>
 
@@ -21,7 +21,6 @@
 `[~]` Si lo prefieres, puedes `enviarme` mails a `3xpl017.contact@proton.me.`
 
     3xpl017.contact@proton.me
-
 `[~]` Mi colaborador habitual: <a href="https://www.github.com/Euronymou5">Euronymou5.<a>
 
 <hr>
