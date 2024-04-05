@@ -41,4 +41,4 @@ __Hola, soy ZombieGeek0, pero se me conoce como Phoenix. Me gusta programar en P
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&langs_count=8&theme=radical)](https://github.com/ZombieGeek0/github-readme-stats)
 
-# Happy Hacking!
+# 🍺 Happy Hacking! 🍺
