@@ -1,59 +1,13 @@
-<h1><center>ZombieGeek0</center></h1>
+# ZombieGeek0
 
 __Hola, soy ZombieGeek0, pero se me conoce como Phoenix. Me gusta programar en Python, pero también se VBS (Visual Baisc Scripting) y Batch, aunque también programé enteriormente en HTML, CSS y C, pero actualmente no uso mucho esos lenguajes. Espero que mis proyectos te resulten funcionales. También soy aprendiz de ciberseguridad y pentesting, y en mi GitHub encontrarás la gran mayoría de los proyectos en Español. Soy hispanohablante, y si quieres conversar conmigo envía una invitación por Discord a qwfkr, o también puedes mandar un E-mail a 3xpl017.contact@proton.me. Si miras el resto del archivo de presentación de este perfil (el mío) verás mis estadísticas así como mis lenguajes más utilizados. ¡Feliz hacking! O no...__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 🧀 mv ZombieGeek0 /dev/null 🧀
-
-<img src="animation.svg" href="animation.svg">
-
-<hr>
-
-`[~]` Trabajo en `Python`, y tengo como entorno `Kali Linux.`
-
-`[~]` Mis proyectos son en `Español.`
-
-`[~]` Estoy aprendiendo sobre la escalada de `permisos en Linux.`
-
-`[~]` También me interesa `aprender` a programar en `GO.`
-
-`[~]` Puedes contactar conmigo por `Discord` enviando una invitación a `qwfkr.`
+`[-]` Mi `Discord`
 
     qwfkr
-
-`[~]` Si lo prefieres, puedes `enviarme` mails a `3xpl017.contact@proton.me.`
+`[-]` Mi `E-mail:`
 
     3xpl017.contact@proton.me
-`[~]` Mi colaborador habitual: <a href="https://www.github.com/Euronymou5">Euronymou5.<a>
 
 <hr>
 
