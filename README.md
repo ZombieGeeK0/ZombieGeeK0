@@ -1,3 +1,37 @@
+# ZombieGeek0 
+
+__Hola, soy ZombieGeek0, pero se me conoce como Phoenix. Me gusta programar en Python, pero también se VBS (Visual Baisc Scripting) y Batch, aunque también programé enteriormente en HTML, CSS y C, pero actualmente no uso mucho esos lenguajes. Espero que mis proyectos te resulten funcionales. También soy aprendiz de ciberseguridad y pentesting, y en mi GitHub encontrarás la gran mayoría de los proyectos en Español. Soy hispanohablante, y si quieres conversar conmigo envía una invitación por Discord a qwfkr, o también puedes mandar un E-mail a 3xpl017.contact@proton.me.__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🧀 mv ZombieGeek0 /dev/null 🧀
 
 <img src="animation.svg" href="animation.svg">
