@@ -11,7 +11,7 @@ __Hola, soy ZombieGeek0, pero se me conoce como Phoenix. Me gusta programar en P
 
 <hr>
 
-## ✌️`Habilidades`✌️
+## Skills
 
 ![Linux](https://img.shields.io/badge/Debian-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux](https://img.shields.io/badge/VSCode-FCC624?style=for-the-badge&logo=visual%20studio%20code&logoColor=black)
@@ -25,21 +25,17 @@ __Hola, soy ZombieGeek0, pero se me conoce como Phoenix. Me gusta programar en P
 ![Linux](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)
 
 
-## 🤔 Entorno de `trabajo` 🤔
+## Work Environnements
 ![Vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vs](https://img.shields.io/badge/Windows_Notepad-0078D4?style=for-the-badge&logo=notepad&logoColor=white)
 
-## 🖥️ `Sistemas` operativos 🖥️
+## Sistemas Operativos
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Debian-557C94?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-557C94?style=for-the-badge&logo=windows&logoColor=white)
 
-## 🗿 Estadísticas de `GitHub` 🗿
+## Mis Estadísticas de GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZombieGeek0&show_icons=true&theme=radical)
-
-`[*]` Con los commits `privados:`
- 
-![ZombieGeek0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZombieGeek0&count_private=true)
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&hide_progress=true&theme=radical)
 
