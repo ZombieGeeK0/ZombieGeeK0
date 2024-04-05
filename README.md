@@ -39,13 +39,9 @@ __Hola, soy ZombieGeek0, pero se me conoce como Phoenix. Me gusta programar en P
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&hide_progress=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&langs_count=8)](https://github.com/ZombieGeek0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&langs_count=8&theme=radical)](https://github.com/ZombieGeek0/github-readme-stats)
 
-*`[~]`Estrellas:*
-
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-
-## 👍 Algunos de mis proyectos 👍
+## Algunos de Mis Proyectos
 
 _Scorpion:_
 
