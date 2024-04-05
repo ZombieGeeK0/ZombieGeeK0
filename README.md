@@ -41,17 +41,4 @@ __Hola, soy ZombieGeek0, pero se me conoce como Phoenix. Me gusta programar en P
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieGeek0&langs_count=8&theme=radical)](https://github.com/ZombieGeek0/github-readme-stats)
 
-## Algunos de Mis Proyectos
-
-_Scorpion:_
-
-![300930434-108c88e5-cd9c-47f7-8e39-eb152d565ba6](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/b070f55c-5955-4d06-a4e9-ad0006d2e265)
-
-
-_Ryno:_
-
-![imagen](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/6d02d6db-91b2-4a77-9401-de5918563147)
-
-<hr>
-
-![hacker-python-1738493745](https://github.com/ZombieGeeK0/ZombieGeeK0/assets/158185295/4517cee5-c545-44a7-a3f7-0be865456f16)
+# Happy Hacking!
